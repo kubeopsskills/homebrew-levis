@@ -9,3 +9,9 @@ brew create levis-<version>.tar.gz
 ```
 sha256sum levis-<version>.tar.gz
 ```
+
+## How to install levis with brew tap
+```
+brew tap kubeopsskills/levis
+brew install levis
+```
